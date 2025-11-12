@@ -1,0 +1,11 @@
+console.log("hello world");
+var myname = "Dimas";
+console.log(myname);
+console.log(myname.toLowerCase());
+console.log(myname.toUpperCase());
+var num1 = 12;
+var num2 = 14;
+console.log(num1 + num2);
+console.log(num1 - num2);
+console.log(5 == 5);
+console.log(5 != 7);
